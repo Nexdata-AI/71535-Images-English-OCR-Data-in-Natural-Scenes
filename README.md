@@ -32,4 +32,4 @@ line-level & word-level & character-level rectangular bounding box or quadrilate
 the accuracy of bounding boxes annotation is not less than 95%; the texts transcription accuracy is not less than 95%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
